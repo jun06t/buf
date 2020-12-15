@@ -140,7 +140,7 @@ Over time, our goal is to make the BSR the only tool you need to manage your Pro
 
 ## Where to go from here
 
-To install Buf, proceed to [installation](https://buf.build/docs/installation.mdx). This includes links to an example
+To install Buf, proceed to [installation](https://buf.build/docs/installation). This includes links to an example
 repository for Travis CI and GitHub Actions integration.
 
 Next, we recommend completing the [tour](https://buf.build/docs/tour-1). This tour should only take about 10 minutes, and
